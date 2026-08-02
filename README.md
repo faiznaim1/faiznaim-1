@@ -1,36 +1,37 @@
-<h1 align="center">
-Hi 👋, I'm Faiz Naim
-</h1>
+<h1 align="center">Hi 👋, I'm Faiz Naim</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | Python Developer | SQL Enthusiast | Future Data Analyst
+📊 Data Analyst | SQL Developer | Python Enthusiast | Power BI Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+Developer;Python+for+Data+Analysis;Power+BI+Enthusiast;Transforming+Data+into+Insights" />
 </p>
 
----
+<p align="center">
 
-# 🚀 About Me
 
-🎓 Diploma in Computer Science from **Jamia Millia Islamia**
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social"/>
 
-💻 Passionate about building scalable web applications.
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social"/>
 
-🌱 Currently Learning
+</p>
 
-- Data Analytics
-- Power BI
-- Advanced SQL
-- Python
-- Machine Learning
+## 📊 About Me
 
-🎯 Career Goal
+I am a Computer Science graduate passionate about **Data Analytics**, **Business Intelligence**, and **Data-Driven Decision Making**.
 
-Become a **Software Engineer** & **Data Analyst**
+I enjoy transforming raw data into meaningful insights using SQL, Python, Excel, and Power BI. I continuously improve my analytical skills by building real-world projects and exploring modern data technologies.
 
----
+### Current Focus
+
+- SQL & Database Optimization
+- Python for Data Analysis
+- Microsoft Excel
+- Power BI Dashboards
+- Data Visualization
+- Statistics
+- Machine Learning Fundamentals
 
 # 🌐 Connect With Me
 
@@ -56,41 +57,27 @@ Become a **Software Engineer** & **Data Analyst**
 
 ---
 
-# 💻 Tech Stack
+<p align="center">
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
 </p>
 
-### Frameworks & Libraries
+<p align="center">
 
-<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-### Developer Tools
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 
 </p>
-
----
 
 # 🛠️ Featured Projects
 
